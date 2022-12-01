@@ -86,6 +86,7 @@
     border-radius: 6px;
     transition: all 350ms ease-in;
     border: 2px solid #432616;
+    margin: 15px;
 }
 
 .card .card-image {
