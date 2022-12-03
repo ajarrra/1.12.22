@@ -154,4 +154,37 @@ color: #a78556
     color: #a95a2f;
 }
 
+.ex-2 .row{
+    color: #432616;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 39px;
+    padding-bottom: 10px;
+    border: 4px dotted #432616;
+    border-radius: 15px;
+    background-color: #a78556;
+    box-shadow: 0 0 10 #3C280D;
+    
+}
+.ex-2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.home{
+    padding: 25px 45px;
+    border: 1px solid #432616;
+    margin-top: 50px;
+    margin-left:606px;
+    text-align: center;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #a78556;
+    color: #3C280D;
 
+}
+.home a{
+    text-align: center;
+ 
+}
