@@ -140,10 +140,11 @@ h1{
 
 a{
     text-align: center;
-color: #a78556
+color: #a78556;
 }
  p{
-    color:#a78556
+    color:#a78556;
+     margin: 15px;
  }
 
  .ex-1 h1{
@@ -173,8 +174,7 @@ color: #a78556
 .home{
     padding: 25px 45px;
     border: 1px solid #432616;
-    margin-top: 50px;
-    margin-left:606px;
+    
     text-align: center;
     border-radius: 20px;
     text-decoration: none;
@@ -182,9 +182,20 @@ color: #a78556
     font-size: 20px;
     background-color: #a78556;
     color: #3C280D;
-
+    box-shadow: 0 0 15 #3C280D;
+   
+    margin-top: 25px ;
+    margin-left: 606px;
+    margin-bottom: 25px;
+    display: inline-block;
 }
+
 .home a{
-    text-align: center;
+  margin-top: 25px;
  
+}
+.home:hover{
+    background-color: #866b45;
+    box-shadow: 0 0 10px black;
+    
 }
