@@ -132,4 +132,13 @@ display: flex;
 .card.card-horizonal .card-image {
     width: 30%;
 }
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #3C280D;
+}
 
+a{
+    text-align: center;
+color: #a78556
+}
